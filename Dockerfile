@@ -1,4 +1,4 @@
-FROM docker.io/library/node:20 AS base
+FROM docker.io/library/node:20-alpine AS base
 
 # install dependencies
 FROM base as build

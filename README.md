@@ -33,6 +33,12 @@ Press ENTER to navigate menus.
 
 Press TAB to highlight links.
 
+## Deployment
+
+```
+docker run -ti -p 3000:3000 ghcr.io/tkw1536/pokethegame
+```
+
 ## Legal
 ### License
 
