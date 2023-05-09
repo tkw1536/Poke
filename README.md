@@ -66,5 +66,5 @@ THE SOFTWARE.
 * [jQuery](https://jquery.org/) 2.1.0, licensed under [MIT License](https://jquery.org/license/)
 * [ExpressJS](http://expressjs.com/) 4.9.5, licensed under [MIT License](https://github.com/strongloop/express/blob/master/LICENSE)
 * [uuid](https://www.npmjs.com/package/uuid) 9.0.0 licensed under [MIT License](https://github.com/uuidjs/uuid/blob/main/LICENSE.md)
-* [Socket.IO](http://socket.io/) 1.1.0, licensed under [MIT License](https://github.com/Automattic/socket.io/blob/master/LICENSE)
+* [Socket.IO](https://socket.io/) 4.6.1, licensed under [MIT License](https://github.com/Automattic/socket.io/blob/master/LICENSE)
 * [winston](https://github.com/flatiron/winston) 0.8.0, licensed under [MIT License](https://github.com/flatiron/winston/blob/master/LICENSE)
