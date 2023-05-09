@@ -65,6 +65,6 @@ THE SOFTWARE.
 * [Press Start 2P Font](https://www.google.com/fonts/specimen/Press+Start+2P), licensed under [SIL Open Font License, 1.1](http://scripts.sil.org/OFL)
 * [jQuery](https://jquery.org/) 2.1.0, licensed under [MIT License](https://jquery.org/license/)
 * [ExpressJS](http://expressjs.com/) 4.9.5, licensed under [MIT License](https://github.com/strongloop/express/blob/master/LICENSE)
-* [node-uuid](https://github.com/broofa/node-uuid) 1.4.1, licensed under [MIT License](https://github.com/broofa/node-uuid/blob/master/LICENSE.md)
+* [uuid](https://www.npmjs.com/package/uuid) 9.0.0 licensed under [MIT License](https://github.com/uuidjs/uuid/blob/main/LICENSE.md)
 * [Socket.IO](http://socket.io/) 1.1.0, licensed under [MIT License](https://github.com/Automattic/socket.io/blob/master/LICENSE)
 * [winston](https://github.com/flatiron/winston) 0.8.0, licensed under [MIT License](https://github.com/flatiron/winston/blob/master/LICENSE)
