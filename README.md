@@ -2,7 +2,7 @@
 
 Pong + Snake = Poke
 
-Multiplayer, find the live demo at [http://poke-the-game.tk](http://poke-the-game.tk)
+Multiplayer, find the live demo at [https://poke.everyone.wtf/](https://poke.everyone.wtf/)
 
 Done for [JacobsHack](jacobshack.com) 2014 by @kpj, @moritzmhmk, @nk17 and @tkw1536.
 
